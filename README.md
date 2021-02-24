@@ -4,6 +4,7 @@
 Creates readme files  
 
 ![Screenshot](screenshotRG.png)
+[Video Link](https://drive.google.com/file/d/17qoZRsdCieYF8ybBGTnGlnkPLIKRIqvK/view?usp=sharing)
 
 
 ## Table of Contents
